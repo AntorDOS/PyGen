@@ -1,4 +1,8 @@
 # 🔐 PYGEN
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
+
 ### Advanced Password Generator & Entropy-Based Strength Checker
 
 > **PYGEN** is a professional command-line password utility written in Python.
